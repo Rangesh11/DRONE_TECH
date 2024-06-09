@@ -1,5 +1,3 @@
-
-
 import { Button, Navbar } from "flowbite-react";
 
 export function Nav() {
