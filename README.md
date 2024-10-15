@@ -24,49 +24,23 @@ Welcome to the **Drone Tech** website project! This is a React-based web applica
 ├── package.json           # Project dependencies and scripts
 └── README.md              # Project documentation
 
-🛠️ Tech Stack
-Frontend: React (with Vite for fast development and build)
-Styling: CSS/SCSS
-Icons: Font Awesome
-State Management: React useState, useEffect
-Deployment: Vercel (or any other platform of choice)
-📋 Step-by-Step Setup Instructions
-1. Clone the Repository
-bash
-Copy code
-git clone https://github.com/your-repo-url.git
-cd drone-tech
-2. Install Dependencies
-bash
-Copy code
-npm install
-3. Run the Development Server
-bash
-Copy code
-npm run dev
-This will start the app in development mode. Open http://localhost:5173 to view it in your browser.
+```
 
-4. Build for Production
-bash
-Copy code
-npm run build
-This will bundle the app for production to the dist folder.
+## Tech Stack
+### Frontend:
+- React (with Vite for fast development and build)
+- Styling: CSS/SCSS
+- Icons: Font Awesome
+- State Management: React useState, useEffect
+### Deployment:
+- Vercel
 
-5. Deploy to Vercel
-Push the project to your GitHub repository.
-Connect your GitHub repo to Vercel for automatic deployment.
-Alternatively, use the Vercel CLI:
-
-bash
-Copy code
-vercel deploy
-🌟 Features
-Home Page: Overview of Drone Tech services and highlights.
-Drones Page: Explore different drones, their specifications, and features.
-Services Page: Information on the drone-related services offered.
-Contact Page: A form to get in touch with Drone Tech for inquiries..
-
-📚 Additional Resources
-React Documentation
-Vite Documentation
-Vercel Documentation
+## Setup Instructions
+### Step-by-Step Setup
+1. **Clone the Repository**:
+    git clone https://github.com/your-repo-url.git
+    cd drone-tech
+2. **Install Dependencies**:
+    npm install
+3. **Run the Development Server:**
+    npm run server
